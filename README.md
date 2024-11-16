@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there, I'm Rex Ng 👋
 
-<!--
-**rubbishhaha/rubbishhaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specifically designed for educational purposes to learn the basics of coding and how to effectively use GitHub
 
-Here are some ideas to get you started:
+About Me 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🏫 I am a Hong Kong high school student who are ready to accept challenge
+🌱 I’m currently starting on programming and advanced in English
+🤔 I’m looking for help with developing interactive, online course materials.
+💬 Ask me about anything from basic programming concepts.
+⚡ Fun fact: I'm a number one of my class in mathematic, physic, mathematics(module 2) subjects
+My Skills 🛠️
+
+Languages and Frameworks: Python
+
+Tools: Git, VS code
+Data Analysis: Excel
+
+My Stats 📈
+
+Your GitHub Stats
+
+Find me 🏫
+
+xiaolaji444@gmail.com
+
+Support Me 
+
+Buy Me a PS5
